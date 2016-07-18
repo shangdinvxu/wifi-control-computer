@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svnroot/grzmote/!svn/ver/7/trunk
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/grzmote/!svn/ver/4/trunk/default.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/grzmote/!svn/ver/2/trunk/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svnroot/grzmote/!svn/ver/2/trunk/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/grzmote/!svn/ver/2/trunk/AndroidManifest.xml
+END
